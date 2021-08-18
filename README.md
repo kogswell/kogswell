@@ -5,11 +5,11 @@
 The goal of Kogswell Cycles is to involve cyclists
 in the design of bicycle hardware that suits their needs.
 
-Over the years we have found that the cycling community 
+We have found that the cycling community 
 is comprised of people whose engineering and design skills
-are substantial. By adopting the concepts of open source design
+are substantial. By adopting open-source design methods 
 we have organized those talents and used them 
-to shape the products that we bring to market.
+to shape our products.
 
-A central resource that we rely on to meet our goal is Github.
+To meet our goal we rely on Github.
 We share ideas and tools here. 
