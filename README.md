@@ -1,6 +1,6 @@
-Welcome to the
+### Welcome to the ###
 # Kogswell Cycles #
-GitHub site
+## GitHub site ##
 
     The goal of Kogswell has always been to involve cyclists
     in the design of bicycle hardware that suits their needs.
