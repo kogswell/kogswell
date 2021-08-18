@@ -2,7 +2,7 @@
 # Kogswell Cycles #
 ## GitHub site ##
 
-The goal of Kogswell has always been to involve cyclists
+The goal of Kogswell Cycles is to involve cyclists
 in the design of bicycle hardware that suits their needs.
 
 Over the years we have found that the cycling community 
