@@ -1,3 +1,3 @@
 #### welcome to GRACE ####
 
-Git Revision Assisting Content Editor
+<b>G</b>it <b>R</b>evision <b>A</b>ssisting <b>C</b>ontent <b>E</b>ditor
