@@ -2,14 +2,8 @@
 # Kogswell Cycles #
 ## GitHub site ##
 
-The goal of Kogswell Cycles is to involve cyclists
-in the design of bicycle hardware that suits their needs.
+At Kogswell, our mission is simple: make cycling accessible, safe, and comfortable for everyone—without breaking the bank.
 
-We have found that the cycling community 
-is comprised of people whose engineering and design skills
-are substantial. By adopting open-source design methods 
-we have organized those talents and used them 
-to shape our products.
+But we’re not doing it alone. We’re building a community of passionate riders and creators who share that vision. Together, we push the boundaries of what’s possible in cycling—one idea at a time.
 
-To meet our goal we rely on Github.
-We share ideas and tools here. 
+We collaborate openly on GitHub, where our community shares innovations, tools, and inspiration. Whether you're designing, tinkering, or riding, Kogswell Cycles is where ideas take shape, and everyone’s welcome on the journey.
